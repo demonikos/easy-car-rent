@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/easy-car-rent/static/css/main.7acaea2f.css",
+    "main.js": "/easy-car-rent/static/js/main.07d3183d.js",
+    "index.html": "/easy-car-rent/index.html",
+    "main.7acaea2f.css.map": "/easy-car-rent/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/easy-car-rent/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
