@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/easy-car-rent/static/css/main.2dd8b574.css",
-    "main.js": "/easy-car-rent/static/js/main.7b8b39a3.js",
+    "main.css": "/easy-car-rent/static/css/main.72b1a64e.css",
+    "main.js": "/easy-car-rent/static/js/main.0a71dee6.js",
     "static/media/Montserrat-SemiBold.ttf": "/easy-car-rent/static/media/Montserrat-SemiBold.93b37a465fc4ec0d0415.ttf",
     "static/media/Montserrat-Regular.ttf": "/easy-car-rent/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
     "static/media/Manrope-SemiBold.ttf": "/easy-car-rent/static/media/Manrope-SemiBold.310f108cc524df0e5ffc.ttf",
     "static/media/Manrope-Medium.ttf": "/easy-car-rent/static/media/Manrope-Medium.08894ccb04665d1a9d53.ttf",
     "static/media/Manrope-Regular.ttf": "/easy-car-rent/static/media/Manrope-Regular.a9b9e09fe6b69741f316.ttf",
+    "static/media/image-1.jpg": "/easy-car-rent/static/media/image-1.1ebfc59916ea077518b4.jpg",
     "index.html": "/easy-car-rent/index.html",
-    "main.2dd8b574.css.map": "/easy-car-rent/static/css/main.2dd8b574.css.map",
-    "main.7b8b39a3.js.map": "/easy-car-rent/static/js/main.7b8b39a3.js.map"
+    "main.72b1a64e.css.map": "/easy-car-rent/static/css/main.72b1a64e.css.map",
+    "main.0a71dee6.js.map": "/easy-car-rent/static/js/main.0a71dee6.js.map"
   },
   "entrypoints": [
-    "static/css/main.2dd8b574.css",
-    "static/js/main.7b8b39a3.js"
+    "static/css/main.72b1a64e.css",
+    "static/js/main.0a71dee6.js"
   ]
 }
