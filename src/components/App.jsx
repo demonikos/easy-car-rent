@@ -3,7 +3,7 @@ import { Catalog } from 'pages/Catalog';
 import { Favorites } from 'pages/Favorites';
 
 import React from 'react';
-import { Route, Routes } from 'react-router-dom';
+import { Navigate, Route, Routes } from 'react-router-dom';
 
 export const App = () => {
   return (
@@ -14,7 +14,7 @@ export const App = () => {
           <Route path="/catalog" element={<Catalog />} />
           <Route path="/favorites" element={<Favorites />} />
         </Route>
-        <Route path="*" element={Home} />
+        <Route path="*" element={<Navigate to="/" />}/>
       </Routes>
     </>
   );

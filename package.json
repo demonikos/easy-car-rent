@@ -4,14 +4,17 @@
   "private": true,
   "homepage": "https://demonikos.github.io/easy-car-rent/",
   "dependencies": {
+    "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.6.1",
     "modern-normalize": "^2.0.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-router-dom": "^6.18.0",
     "react-scripts": "5.0.1",
+    "redux-persist": "^6.0.0",
     "sass": "^1.69.5",
     "web-vitals": "^2.1.3"
   },

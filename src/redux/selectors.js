@@ -1,0 +1,1 @@
+export const getAllCards = (state) => state.cars.data;
